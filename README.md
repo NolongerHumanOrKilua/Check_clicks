@@ -16,7 +16,7 @@ git clone https://github.com/NolongerHumanOrKilua/Check_clicks
 ```
 - Зарегистрирутесь на сайте [https://bitly.com](https://bitly.com) и получите персональный токен. Токен поместите в файл `.env`:
 ```
-BIT_TOKEN=ваш токен
+BITLINK_TOKEN=ваш токен
 ```
 
 ## Запуск
