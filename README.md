@@ -18,6 +18,12 @@ git clone https://github.com/NolongerHumanOrKilua/Check_clicks
 ```
 BITLINK_TOKEN=ваш токен
 ```
+## Установка зависимостей
+
+Используйте pip для установки зависимостей:
+```bash
+pip install -r requirements.txt
+```
 
 ## Запуск
 
